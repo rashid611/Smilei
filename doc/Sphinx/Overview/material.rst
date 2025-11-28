@@ -51,6 +51,13 @@ Following is the distribution of these topics in the listed publications up to N
    Use the python script doc/doi2publications.py to generate entries from a DOI number, and paste them here
    You can count the number of papers in the list with the vim command :%s/.. \[//gn. 
 
+
+.. [RashidUlHaq2025]
+
+    Rashid Ul Haq, Mohammad Rezaei-Pandari, Xinglong Xie, Xiao Liang, Meizhi Sun, Ping Zhu, Zhantao Lu, Guoli Zhang, Linjun Li, Hao Xue, Nasr A. M. Hafz & Jianqiang Zhu,  
+    `Multi-GeV electron beam generation via two-stage laser wakefield acceleration.` 
+    `Sci Rep 15, 42290 (2025). <https://doi.org/10.1038/s41598-025-22766-w>`_
+
 .. [Oudin2025]
 
     A. Oudin, Y. Lalaire, G. Bouchard, A. Debayle, A. Fusaro, P. Loiseau, C. Ruyer, D. Benisti,
